@@ -12,7 +12,7 @@ In this lab, you’ve learned about edge sensitive circuits and explored some of
 |Question 3|Your answers to the question|25%|
 
 ## Names
-Justin Buffaloe
+Justin Buffaloe and Adam Zens
 ## Summary
 In this lab, I learned how to use the center button as a clock for three types of flip-flops. The D flip-flop stores the 
 switch value when I press the button and holds that value until the next press. I used the D flip-flop to build a JK flip-flop, 
